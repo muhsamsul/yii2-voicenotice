@@ -1,5 +1,7 @@
 
 Voice Notice
+============
+Notice with voice alert
 
 Installation
 ------------
@@ -45,4 +47,4 @@ NotificationsWidget::widget([
     'listSelector' => '#notifications',
 ]);
 
-?>```
+?>
