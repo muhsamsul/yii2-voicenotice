@@ -1,0 +1,22 @@
+{
+    "name": "muhsamsul/yii2-voicenotice",
+    "description": "Notice with voice alert",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","muhsamsul","soul","notification","notice"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muh. Samsul Huda",
+            "email": "muh.samsulhuda714@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "rmrevin/yii2-fontawesome": "~2.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "muhsamsul\\voicenotice\\": ""
+        }
+    }
+}
