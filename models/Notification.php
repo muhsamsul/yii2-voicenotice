@@ -2,7 +2,7 @@
 
 namespace muhsamsul\voicenotice\models;
 
-use soul\voicenotice\VoiceNotice;
+use muhsamsul\voicenotice\VoiceNotice;
 use Yii;
 use yii\db\ActiveRecord;
 

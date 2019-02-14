@@ -3,7 +3,7 @@
 namespace muhsamsul\voicenotice;
  
 use Yii;
-use soul\voicenotice\models\Notification as BaseNotification;
+use muhsamsul\voicenotice\models\Notification as BaseNotification;
 /**
 * 
 */

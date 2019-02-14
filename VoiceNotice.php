@@ -4,7 +4,7 @@ namespace muhsamsul\voicenotice;
 
 use Yii;
 use Exception;
-use soul\voicenotice\models\Notification;
+use muhsamsul\voicenotice\models\Notification;
 use yii\base\Module;
 use yii\db\Expression;
 /**
