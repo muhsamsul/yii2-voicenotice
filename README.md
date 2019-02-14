@@ -1,12 +1,5 @@
-<<<<<<< HEAD
+
 Voice Notice
-============
-Notice with voice alert
-=======
-voice notification
-==================
-notification with voice
->>>>>>> b36fc555674432325a735a8ce9e06b7efa4c6a0e
 
 Installation
 ------------
